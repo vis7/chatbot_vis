@@ -1,0 +1,2 @@
+python notes
+try using relative path whenever possible

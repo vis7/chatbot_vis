@@ -1,0 +1,31 @@
+how to improve performace of my chatbot ?
+-> training on full dataset
+-> include full conversations instead of only 40
+-> do external research
+
+if we did't use punctuation and special characters like ? , ! then how my chatbot will learn to use this ?
+
+why there is dec_inputs ? (when creating dataset)
+
+how this transformer is implimenting teacher forceing ?
+
+query = 
+key = 
+value = 
+
+
+d_model = number of dense layers of (query, key and value before feeding into scaled dot product attention in multihead attention)
+num_heads = 
+
+how look ahed mask is created ?
+what tf.linalg.band_part does ? it will give Lower Triangular Part of matrix
+
+tf.keras.Input from where these get input ? = Input were given when creating model or at the time of training
+
+
+
+read this links
+https://towardsdatascience.com/attention-and-its-different-forms-7fc3674d14dc
+https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms?newreg=e1f4898e115b41f1a3d90c99a78edbbe
+
+

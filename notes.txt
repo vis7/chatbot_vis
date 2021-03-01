@@ -1,0 +1,6 @@
+in mask 0 is value to be consider and 1 is the value to be ignore (in both padding mask and look ahed mask)
+
+
+rsqrt() is used to find element-wise reciprocal of square root of x.
+tf.math.sqrt(1/0.2)
+tf.math.rsqrt(0.2)
